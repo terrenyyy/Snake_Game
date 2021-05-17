@@ -5,6 +5,11 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:white;
+    background-color:rgba(0, 54, 5, 0.705);
     color: rgb(52, 165, 52);
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 45px;
 }
